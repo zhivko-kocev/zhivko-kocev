@@ -1,3 +1,5 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhivko-kocev)](https://github.com/anuraghazra/github-readme-stats)
+![zhivko-kocev's Stats](https://github-readme-stats.vercel.app/api?username=zhivko-kocev&theme=monokai&show_icons=true&hide_border=false&count_private=true)
+![zhivko-kocev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=zhivko-kocev&theme=monokai&hide_border=false)
+![zhivko-kocev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhivko-kocev&theme=monokai&show_icons=true&hide_border=false&layout=compact)
