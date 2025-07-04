@@ -52,12 +52,6 @@ const zhivko_kocev = {
   <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhivko-kocev&theme=monokai&show_icons=true&hide_border=false&layout=compact">
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zhivko-kocev&theme=monokai&no-frame=false&no-bg=false&margin-w=4">
-</p>
-
 ## 💡 Random Dev Quote
 
 <p align="center">
