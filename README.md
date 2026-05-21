@@ -3,42 +3,32 @@
 </p>
 
 <p align="center">
-  <em>At the intersection of innovation, compassion, and knowledge. 💡📘</em>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=zhivko-kocev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```javascript
 const zhivko_kocev = {
-    welcome: "👋 Welcome to my GitHub! I'm Zhivko Kocev — a passionate developer, open-source contributor, and football-loving techie.",
+    welcome: "Welcome to my GitHub! I'm Zhivko Kocev — a passionate software engineer, open-source contributor, and football-loving techie.",
 
     location: "Macedonia 🇲🇰",
-    education: "🎓 Computer Science Student at FCSE - Faculty of Computer Science and Engineering",
-    motto: "“It is our choices, Harry, that show what we truly are, far more than our abilities.” 🪄",
+    education: "Computer Science Student at FCSE - Faculty of Computer Science and Engineering",
+    motto: "It is our choices, Harry, that show what we truly are, far more than our abilities.",
     
     identity: [
-        "🧑‍💻 Software Engineer @ CodeChem",
-        "🤝 Volunteer Coordinator @ Doniraj Kompjuter",
-        "🛠️ Computer Technician @ Doniraj Kompjuter",
-        "🎓 CS Student @ FCSE",
-        "⚽ Football Player",
-        "💡 Passionate Technologist",
-        "🧠 Lifelong Learner"
+        "Software Engineer @ CodeChem",
+        "Volunteer Coordinator @ Doniraj Kompjuter",
+        "Computer Technician @ Doniraj Kompjuter",
+        "CS Student @ FCSE",
+        "Football Player",
+        "Passionate Technologist",
     ],
-    
-    funFacts: [
-        "I believe every line of code should tell a story 📖✨",
-        "I don’t run on coffee—I run on code and football! ⚽💻"
-    ]
 };
 ```
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
   <img width="500" src="https://github-readme-stats.vercel.app/api?username=zhivko-kocev&theme=monokai&show_icons=true&hide_border=false&count_private=true">
@@ -52,15 +42,5 @@ const zhivko_kocev = {
   <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhivko-kocev&theme=monokai&show_icons=true&hide_border=false&layout=compact">
 </p>
 
-## 💡 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai" alt="Random Dev Quote"/>
-</p>
-
 ---
-
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/zhivko-kocev">zhivko-kocev</a></i>
-</p>
 
