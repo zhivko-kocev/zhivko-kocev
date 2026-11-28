@@ -16,7 +16,6 @@ const zhivko_kocev = {
         "Computer Technician @ Doniraj Kompjuter",
         "CS Student @ FCSE",
         "Football Player",
-        "Passionate Technologist",
     ],
 };
 ```
